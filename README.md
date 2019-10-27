@@ -6,8 +6,8 @@
 Steps:
 
 1. Find any repository that you want to contribute to.
-2. Once that you find the repository, click on the name of repository and then click on **Fork** button.
-3. Once on your fork repository, click on **Clone or download** button.
+2. Once you find the repository, click on the name of repository and then click on **Fork** button.
+3. In your fork's repository home page, click on **Clone or download** button.
 4. Then click on **Open in Desktop** button. (If you don't have GitHub Desktop installed, it will indicate that the application needs to be installed.)
 5. GitHub Desktop application is opened automatically.
 6. Make the changes in the code or documents.
